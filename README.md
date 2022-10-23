@@ -19,7 +19,7 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap
 - 🛢 &nbsp; Postgresql | SQL | SQLAlchemy
 - 🔧 &nbsp; Git | Postman API | GitHub 
-
+- ⛅️ Cloud Computing | AWS
 <h3>🤝 Connect with Me:</h3>
 <p align="left">
 <a href="https://twitter.com/mujeeb_dimeji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujeeb_dimeji" height="30" width="40" /></a>
