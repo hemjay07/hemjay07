@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center"> I'm Opabode Abdulmujeeb</h1>
-<h3 align="center">I am from a healthcare background but am in love with coding. A logical and results-driven Full Stack Developer obsessed with finding solutions to users' problems</h3>
+<h3 align="center">A logical and results-driven Full Stack Developer obsessed with finding solutions to users' problems. I am from a healthcare background but am in love with coding. </h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
 
 - 🔭 I’m currently working on **projects using Javascript and Flask with Udacity Full-stack Web Nanodegree.**
