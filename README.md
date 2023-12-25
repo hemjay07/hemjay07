@@ -1,21 +1,23 @@
 ### Hi there 👋
 
 <h1 align="center"> I'm Opabode Abdulmujeeb</h1>
-<h3 align="center">A logical and results-driven Full Stack Developer obsessed with finding solutions to users' problems. I am from a healthcare background but I am in love with coding. </h3>
+<h3 align="center">👋 Hello, I'm Mujeeb, a full-stack developer with a strong affinity for frontend development. My expertise lies in crafting seamless and innovative web experiences. </h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
 
 - 🔭 I’m currently working on **projects using Javascript and Flask with Udacity Full-stack Web Nanodegree.**
 
-- 🌱 I’m learning to be a better **React** developer.
+- 🌱 I’m learning to be a better **Software Engineer** developer.
 
-- 👯 I’m looking to collaborate on **exciting front-end or backend projects that would ultimately make me a better developer 😁.**
+- 👯 I’m looking to collaborate on **exciting projects that would ultimately make me a better developer 😁.**
 
 - 📫 Reach me on **mujeebopabode07@gmail.com**
+
+- 🏀 If you can't reach me, I'm probably on the court, convincing myself I'm the next basketball sensation.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | C
+- 💻 &nbsp; Javascript| React | Python | C
 - 🌐 &nbsp; HTML | CSS | Bootstrap
 - 🛢 &nbsp; Postgresql | SQL | SQLAlchemy
 - 🔧 &nbsp; Git | Postman API | GitHub 
