@@ -4,7 +4,7 @@
 <h3 align="center">👋 Hello, I'm Mujeeb, a full-stack developer with a strong affinity for frontend development. My expertise lies in crafting seamless and innovative web experiences. </h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
 
-- 🔭 I’m currently working on **projects using Javascript and Flask with Udacity Full-stack Web Nanodegree.**
+- 🔭 I’m currently working on **projects using React, Redux and React Testing Library.**
 
 - 🌱 I’m learning to be a better **Software Engineer** developer.
 
