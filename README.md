@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **projects using React, Redux and React Testing Library.**
 
-- 🌱 I’m learning to be a better **Software Engineer** developer.
+- 🌱 I’m learning to be a better **Software Engineer** .
 
 - 👯 I’m looking to collaborate on **exciting projects that would ultimately make me a better developer 😁.**
 
