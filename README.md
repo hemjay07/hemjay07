@@ -1,33 +1,31 @@
-### Hi there 👋
+### Hi, I'm Mujeeb 👋
 
-<h1 align="center"> I'm Opabode Abdulmujeeb</h1>
-<h3 align="center">👋 Hello, I'm Mujeeb, a full-stack developer with a strong affinity for frontend development. My expertise lies in crafting seamless and innovative web experiences. </h3>
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
+**Frontend engineer at [Mono](https://mono.co) (YC W21). Building AI agent systems on the side.**
 
-- 🔭 I’m currently working on **projects using React, Redux and React Testing Library.**
+I focus on the harder problem: making agents behave reliably. MD background taught me to debug systematically.
 
-- 🌱 I’m learning to be a better **Software Engineer** .
+---
 
-- 👯 I’m looking to collaborate on **exciting projects that would ultimately make me a better developer 😁.**
+#### What I'm working on
 
-- 📫 Reach me on **mujeebopabode07@gmail.com**
+- **Claude Architect** – 30-case evaluation suite for model behavior. Discovered judge bugs masking agent failures. [View repo →](https://github.com/hemjay07/claude-architect)
+- **Launchpad** – Multi-agent marketing system. 4-agent cluster with model selection (Opus/Sonnet/Haiku) and deterministic routing.
+- **AgentQuote** – Cost estimation for AI agent projects. [Live →](https://agentquote.vercel.app)
 
-- 🏀 If you can't reach me, I'm probably on the court, convincing myself I'm the next basketball sensation.
+---
 
+#### Background
 
-<h3>🛠 Tech Stack</h3>
+🩺 M.D. from University of Ibadan (2025). Self-taught engineering while completing clinical rotations.
 
-- 💻 &nbsp; Javascript| React | Python | C
-- 🌐 &nbsp; HTML | CSS | Bootstrap
-- 🛢 &nbsp; Postgresql | SQL | SQLAlchemy
-- 🔧 &nbsp; Git | Postman API | GitHub 
-- ⛅️ Cloud Computing | AWS
-<h3>🤝 Connect with Me:</h3>
-<p align="left">
-<a href="https://twitter.com/mujeeb_dimeji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujeeb_dimeji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulmujeeb-opabode-46080716a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulmujeeb-opabode-46080716a/" height="30" width="40" /></a>
+---
 
-</p>
+#### Stack
 
+**AI/LLM:** Claude API, prompt engineering, evaluation methodology, agent orchestration  
+**Frontend:** TypeScript, React, Next.js  
+**Backend:** Node.js, SQLite, PostgreSQL
 
+---
 
+[Twitter](https://twitter.com/__mujeeb__) · [LinkedIn](https://linkedin.com/in/abdulmujeeb-opabode) · mujeebopabode07@gmail.com
