@@ -1,17 +1,15 @@
 ### Hi, I'm Mujeeb 👋
 
-**Frontend engineer at [Mono](https://mono.co) (YC W21). Building AI agent systems on the side.**
+**Frontend engineer at [Mono](https://mono.co) (YC W21). Building clinical AI evaluation infrastructure.**
 
-I focus on the harder problem: making agents behave reliably. MD background taught me to debug systematically.
+I focus on the harder problem: making clinical AI behave reliably in deployment contexts that benchmarks don't test for. MD background taught me to debug systematically.
 
 ---
 
 #### What I'm working on
 
-- **Clinical Guard** –  Pluggable eval framework for medical AI agents. Hybrid retrieval over 251 clinical conditions, Phase 1 complete.[View repo →](https://github.com/hemjay07/clinicalguard)
-- **Claude Architect** – 30-case evaluation suite for model behavior. Discovered judge bugs masking agent failures. [View repo →](https://github.com/hemjay07/claude-architect)
-- **Launchpad** – Multi-agent marketing system. 4-agent cluster with model selection (Opus/Sonnet/Haiku) and deterministic routing.
-- **AgentQuote** – Cost estimation for AI agent projects. [Live →](https://agentquote.vercel.app)
+- **ClinicalGuard** — Open-source evaluation framework for clinical AI systems, grounded in Nigerian Standard Treatment Guidelines (NSTG 2022). Hybrid retrieval over 251 conditions, four-dimension LLM-as-judge scoring with required/expected split, deterministic safety engine, measured intra-judge variance. Phase 2 complete. [View repo →](https://github.com/hemjay07/clinicalguard)
+- **Claude Architect** — Multi-agent clinical research system for GLP-1 receptor agonist literature. Orchestrator/Researcher/Critic architecture, 30-case adversarial eval suite, hybrid RAG over real trial data. [View repo →](https://github.com/hemjay07/claude-architect)
 
 ---
 
